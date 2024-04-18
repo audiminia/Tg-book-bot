@@ -8,7 +8,7 @@ A Telegram bot that provides books using the Libgen and its API.
 
 ## How to Use
 
-1. Start the bot by searching for "@TheGameInfoBot" on Telegram or by clicking [here](https://t.me/TheGameIntoBot).
+1. Start the bot by searching for "@KaizokuOu_RoBot" on Telegram (not available).
 2. Use the following commands to interact with the bot:
    - `/start`: Displays a welcome message and provides basic information about the bot.
    - `/help`: Provides a list of available commands and their usage instructions.
